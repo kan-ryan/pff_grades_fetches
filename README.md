@@ -44,13 +44,4 @@ These cookies usually expire within 12–24 hours. If your script stops working 
 - Refresh a grades page
 - Copy fresh cookies into `config.py`
 
----
 
-Let me know if you want to:
-
-- Scrape multiple games at once
-- Filter by team/position/week
-- Export JSON or load to a database
-- Automate login to refresh cookies without DevTools
-
-Happy data hunting 🏈
